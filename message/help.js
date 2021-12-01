@@ -574,7 +574,7 @@ AMAN? 100% AMAN NO TIPU MALAHAN AMANAH`
 }
 
 exports.upprembot = (nomerowner) => {
-  return`*「 LAYNA IKLAN 」*
+  return`*「 MADE IKLAN 」*
 
 ❑ Upgrade Premium : 10K/BULAN
 ❑ Perpanjang Premium: 5K/BULAN
