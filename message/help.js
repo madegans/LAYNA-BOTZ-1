@@ -588,7 +588,7 @@ exports.upprembot = (nomerowner) => {
 ❑ Pembayaran : DANA/OVO/GOPAY/PULSA 
 ❑ Note : KIRIM SCREENSHOT SEBAGAI BUKTI KE NOMOR wa.me/${nomerowner}
 
-*「 LAYNA BOT 」*`
+*「 MADE-BOT 」*`
 }
 
 exports.rules = (prefix) => {
